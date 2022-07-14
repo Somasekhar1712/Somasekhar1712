@@ -3,4 +3,4 @@
 - 🔭 Working on multiple frontend and backend project using Angular, Ionic and Nodejs
 - 🌱 Learning design patterns in depth
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somasekhar1712" width="120" alt="Nest Logo" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somasekhar1712" alt="Nest Logo" />
